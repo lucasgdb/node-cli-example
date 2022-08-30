@@ -1,0 +1,11 @@
+{
+  "name": "javascript-template",
+  "version": "1.0.0",
+  "description": "A simple JS template",
+  "license": "MIT",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node ."
+  }
+}
